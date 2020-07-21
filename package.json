@@ -1,0 +1,25 @@
+{
+  "name": "burger-restaurant-app",
+  "version": "1.0.0",
+  "description": "Burger logger that allows users to add burgers and mark if they have been eaten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myhyun/burger-restaurant-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myhyun/burger-restaurant-app/issues"
+  },
+  "homepage": "https://github.com/Myhyun/burger-restaurant-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
