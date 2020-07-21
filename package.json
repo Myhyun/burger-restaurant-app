@@ -4,6 +4,7 @@
   "description": "Burger logger that allows users to add burgers and mark if they have been eaten",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
